@@ -4,6 +4,9 @@ In this project, Tic-Tac-Toe game is implemented to be played over internet conn
 
 This project is purely written in java which is using GUI for the game window and socket programming to communicate with the other player's GUI in his/her PC. 
 
+
+Player One and Player Two are two separate folders for each player. Images folder contain images from the demo.
+
 ## How this works?
 1. Player that will start first, should run the program and click "Start First". Other player can now run the program and click "Cancel".
 
